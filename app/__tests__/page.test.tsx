@@ -1,6 +1,6 @@
 import { describe, it, expect, vi } from "vitest";
 import { render, screen } from "@testing-library/react";
-import Home from "../app/page";
+import Home from "../page";
 
 // Mock the Next.js Image component
 vi.mock("next/image", () => ({
