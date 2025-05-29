@@ -5,8 +5,9 @@ export default function Home() {
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
-          className="dark:invert"
-          src="/next.svg"
+          // className="dark:invert"
+          src="https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/244126423_231662352317257_8797865186957837401_n.png?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CbS8bRG0_kMQ7kNvwEcQ7u9&_nc_oc=Adn0K0xol7UAbFI52UkswGthFHdhHiMsz__q1x7F7C8cfXbd-hDlLn_c7L0TJxR5MFE&_nc_zt=23&_nc_ht=scontent.fbud3-1.fna&_nc_gid=tdaL67mJnOX0LJ15sCjuYg&oh=00_AfLQxqH3oxWR8qnIaQ3wffXT1SEaMGUAWivYZXGyX89erA&oe=683E302B"
+          // src="/next.svg"
           alt="Next.js logo"
           width={180}
           height={38}
