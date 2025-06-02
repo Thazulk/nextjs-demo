@@ -1,3 +1,5 @@
+import Button from "./button";
+
 export default async function Contact() {
   console.log("ContactPage rendered");
 
@@ -18,6 +20,9 @@ export default async function Contact() {
           </li>
         ))}
       </ul>
+      <div>
+        <Button />
+      </div>
     </div>
   );
 }
