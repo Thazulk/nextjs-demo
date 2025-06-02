@@ -1,4 +1,5 @@
 export default function ContactPage() {
+  console.log("ContactPage rendered");
   return (
     <div>
       <h1>Contact Page</h1>

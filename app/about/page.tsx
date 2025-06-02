@@ -1,4 +1,7 @@
+"use client";
+
 export default function AboutPage() {
+  console.log("AboutPage rendered");
   return (
     <div>
       <h1>About Us</h1>
